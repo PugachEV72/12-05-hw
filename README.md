@@ -48,3 +48,17 @@ group by c.customer_id;
 ![Скриншот 4](https://github.com/PugachEV72/Images/blob/master/2023-03-26_10-34-10.png)
 
 ---
+
+### Доработка
+
+![Скриншот 5](https://github.com/PugachEV72/Images/blob/master/2023-03-29_23-47-06.png)
+
+![Скриншот 6](https://github.com/PugachEV72/Images/blob/master/2023-03-29_23-49-14.png)
+
+![Скриншот 7](https://github.com/PugachEV72/Images/blob/master/2023-03-30_00-12-00.png)
+
+![Скриншот 8](https://github.com/PugachEV72/Images/blob/master/2023-03-30_00-15-19.png)
+
+
+
+
